@@ -7,3 +7,29 @@
 	Light Gray: #939598
 */
 
+.nav {
+	margin-top: 2vw;
+	margin-bottom: 1vw;
+}
+
+.nav li {
+	display: inline-block;
+	padding: 2vw 3vw;
+	
+	background-color: red;
+	border-radius: .5vw;
+}
+
+.nav .btn-primary {
+	margin-top: 3vw;
+}
+
+.btn-primary {
+	background-color: #0068aa;
+	border: 1px solid #0068aa;
+}
+
+.btn-primary:hover {
+	background-color: #283c5e;
+	border: 1px solid #283c5e;
+}
